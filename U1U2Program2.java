@@ -2,10 +2,10 @@ package new1;
 /*Name: Puneet Kaur
 Date: March 9, 2021
 Purpose: This program (supplementary) creates a bill based on the items, costs and quantities given by the user; it also calculates the total cost before and after taxes
-This program uses 1D,2D arrays and class methods to do all these tasks  */
+This program uses 1D, 2D arrays and class methods to do all these tasks  */
 import java.util.Scanner;
 
-public class U1U2Program2 {//add comments and recursion
+public class U1U2Program2 {
 	static Scanner input = new Scanner(System.in);
 
 	public static void main(String[] args) {
