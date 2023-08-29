@@ -5,7 +5,7 @@ Purpose: This program (supplementary) creates a bill based on the items, costs a
 This program uses 1D, 2D arrays and class methods to do all these tasks  */
 import java.util.Scanner;
 
-public class U1U2Program2 {
+public class InvoiceGenerator {
 	static Scanner input = new Scanner(System.in);
 
 	public static void main(String[] args) {
