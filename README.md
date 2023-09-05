@@ -1,5 +1,8 @@
 # Invoice Generator
 
+#### Author: Puneet Kaur
+#### Date: March 9, 2021
+
 ## Overview
 
 The **Invoice Generator** is a Java program designed to help users create itemized invoices based on provided item names, costs, and quantities. It calculates both the total cost before and after taxes, offering a comprehensive breakdown of the invoice. The program utilizes 1D and 2D arrays, along with class methods, to perform these tasks efficiently.
