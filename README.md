@@ -28,8 +28,5 @@ The **Invoice Generator** is a Java program designed to help users create itemiz
 
 Here's a simple example of how the program works:
 
-
-<img width="248" alt="Screen Shot 2023-08-26 at 6 23 09 PM" src="https://github.com/kaur-puneet/Invoice-Generator/assets/99100407/fd146b82-5db5-4ca3-b4fa-2d73ea0274e4">
-
-
+<img width="248" alt="Screen Shot 2023-08-26 at 6 23 09 PM" src="https://github.com/kaur-puneet/Invoice-Generator/assets/99100407/7cae676a-4c8f-4283-b1c3-747f5f9f6a90">
 
